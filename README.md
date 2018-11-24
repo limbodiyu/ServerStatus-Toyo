@@ -24,6 +24,7 @@
 # 安装教程：     
 
 执行下面的代码下载并运行脚本。
+``` bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/status.sh && chmod +x status.sh
 ```
 下载脚本后，根据需要安装客户端或者服务端：
